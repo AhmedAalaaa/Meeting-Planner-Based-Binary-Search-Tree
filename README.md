@@ -1,0 +1,2 @@
+# Meeting-Planner-Based-Binary-Search-Tree
+This planner is mainly depending on the binary search trees, every binary search tree has a root, child, and leaf. The root is the top node of the tree and is the key of entering the tree. The child is every node that does not a root, and have at least one child. The leaf is the node that does not have any children. This planner supports five main operations: Add a new plan, modify an existing plan, find an existing plan, delete a plan, and print all the existing plans.
